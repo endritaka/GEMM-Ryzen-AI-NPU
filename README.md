@@ -1,3 +1,7 @@
+# GEMM Optimization on Ryzen AI NPUs
+
+This repository contains some parts of the code for work "Striking the Balance: GEMM Performance Optimization Across Generations of Ryzen AI NPUs" which was accepted at ISFPGA 2026 as a poster ([https://dl.acm.org/doi/abs/10.1145/3706628.3708867](https://arxiv.org/abs/2512.13282)).
+
 ## Repository structure
 
 - `micro-benchmarking/`
